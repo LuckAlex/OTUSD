@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="59f0d627-fc3c-4d21-9935-dda2fbfa6aee" name="超算">
+        <fileTransfer rootFolder="/home/liuyunqi/project" accessType="SFTP" host="202.114.96.179" port="22" sshConfigId="42e95f79-6b31-45ca-8d2a-216a3ff22131" sshConfig="liuyunqi@202.114.96.179:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
